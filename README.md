@@ -6,7 +6,7 @@ Básicamente las pruebas fueron similares en suma multiplicacion y exponenciales
 
 ![all](https://drive.google.com/uc?id=1zcILFYPf-vjgcJYLnU3w8IqbsxYbdzdz)
 
-Sin embargo usandolos para una recursividad como la seceuncia fibonacci se nota mas fluctuante los tiempos
+Sin embargo usando para una recursividad como la seceuncia fibonacci se nota mas fluctuante los tiempos
 
 ![fibo1](https://drive.google.com/uc?id=15AKdXdvwT-RbzNUdps60EBYLbGa8Cm6z)
 
