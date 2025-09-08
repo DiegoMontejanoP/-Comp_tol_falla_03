@@ -1,4 +1,25 @@
 # Comp_tol_falla_03
+
+## 0. Experimentos
+
+Básicamente las pruebas fueron similares en suma multiplicacion y exponenciales, si procesos era **1** el tiempo de proceso era la mitad
+
+![all](https://drive.google.com/uc?id=1zcILFYPf-vjgcJYLnU3w8IqbsxYbdzdz)
+
+Sin embargo usandolos para una recursividad como la seceuncia fibonacci se nota mas fluctuante los tiempos
+
+![fibo1](https://drive.google.com/uc?id=15AKdXdvwT-RbzNUdps60EBYLbGa8Cm6z)
+
+Hilos < a procesos 
+
+![fibo2](https://drive.google.com/uc?id=1alJ2OMXuZLHymTWzJjMKJnhtnkhutSuj)
+
+Hilos == procesos
+
+![fibo3](https://drive.google.com/uc?id=12YYSfoBibmzC1VCL4QAQhoVOokgw12Fk)
+
+Hilos > procesos
+
 ## 1. 🧵 Hilos (Threads)
 **Punto fuerte:** Ideales para operaciones I/O bound donde el programa pasa mucho tiempo esperando por recursos externos.
 
